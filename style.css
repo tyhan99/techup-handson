@@ -1,3 +1,27 @@
+/*  
 h1 {
     color: red;
+    background-color: yellow;
+
+    text-align: center;
+    border-radius: 3ch;
+    border: 10px solid rgb(110, 49, 243);
+
+    margin-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+*/
+
+h1 {
+    color: red
+}
+
+.title {
+    background-color: turquoise;
+}
+
+#important {
+    color:chartreuse;
 }
